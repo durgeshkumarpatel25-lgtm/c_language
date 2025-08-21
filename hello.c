@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
 void main()
-{
-    printf("hello world ");
-    printf("My Changes");
-    getch();
+    printf("Hello world ");
+getch();
 }
