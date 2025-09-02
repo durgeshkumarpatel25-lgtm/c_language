@@ -3,7 +3,7 @@
 void main()
 {
     int i,num;
-    printf("Enter any number do you  want to print a table:\t ");
+    printf("Enter any number do you  want to print a table: \t ");
     scanf("%d",&num);
     for(i=1;i<=10;i++)
     {
