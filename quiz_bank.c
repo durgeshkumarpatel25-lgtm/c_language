@@ -7,7 +7,7 @@ char a,b,c,d,e,f,g,h,i,j,k;
 int score=0;
 printf("10 MCQ Questions choose optin a to d\n");
 printf("Q1 Which of these is an input device: \n");
-printf("a  Mouse   b CPU   c  Moniter     d   Printer\n");
+printf("a  Mouse   b CPU   c  Moniter     d   Printer \n");
 scanf(" %c",&a);
 if(a=='a')
 {
