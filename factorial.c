@@ -4,7 +4,7 @@
 void main()
 {
     int i,n, fact=1;
-    printf("Enter a number do you want factorial \n");
+    printf("Enter a number do you want factorial  \n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
