@@ -11,6 +11,6 @@ void main()
         }
      printf("%d\n",i);
     }
-    printf("\n end");
+    printf("\n end ");
     getch();
 }
