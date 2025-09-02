@@ -4,7 +4,7 @@ void main()
 {
     int age,n; 
     //example of conditional operator
-    printf("enter your age for cheking vote eligiblity: \n");
+    printf("enter your age for cheking vote eligiblity:  \n");
     scanf("%d",&age);
     if(age>=18)
     {
