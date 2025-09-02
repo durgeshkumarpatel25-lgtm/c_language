@@ -9,7 +9,7 @@ void main()
     {
         sum=sum+i;
     }
-    printf("\n the sum of natural number is: %d",sum);
+    printf("\n the sum of natural number is:  %d",sum);
 //for the reverse
 printf("\n reverse numbers are");
 for(int i=num;i>=1;i--)
