@@ -8,7 +8,7 @@ void main()
 
     if(number>=0)
     {
-        printf("positive \n");
+        printf("positive  \n");
         if(number % 2==0)
         {
             printf("even \n");
