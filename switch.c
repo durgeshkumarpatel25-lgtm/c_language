@@ -8,7 +8,7 @@ scanf("%d",&num);
 switch(num)
 {
 case 1:
-printf("Sunday\n");
+printf("Sunday\n ");
 break;
 case 2:
 printf("momday\n");
