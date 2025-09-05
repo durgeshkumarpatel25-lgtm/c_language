@@ -7,6 +7,9 @@ void convertTemp(float c)
 }
 int main()
 {
-    convertTemp(55);
+    float c;
+    printf("Enter the celsius value:  ");
+    scanf("%f",&c);
+    convertTemp(c);
     return 0;
 }
