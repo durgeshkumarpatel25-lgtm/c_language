@@ -4,7 +4,7 @@ void convertTemp(float c)
     float f;
     f=(c * 9/5) + 32;
     printf("the value in fehrenheit is: %.2f ",f);
-}
+} 
 int main()
 {
     float c;
