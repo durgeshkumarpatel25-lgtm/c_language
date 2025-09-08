@@ -1,3 +1,4 @@
+//one dimentional array
 #include<stdio.h>
 #include<conio.h>
 //first program taking array elements from user
