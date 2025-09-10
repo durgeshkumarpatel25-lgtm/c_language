@@ -1,3 +1,4 @@
+// program for count odd number using the array and fu nction
 #include<stdio.h>
 int countOdd(int arr[] ,int n)
 {
@@ -12,6 +13,7 @@ int countOdd(int arr[] ,int n)
     return count;
 }
 
+// functio calling 
 int main()
 {
     int arr[]={10,20,30,55,54,54,5,20};
