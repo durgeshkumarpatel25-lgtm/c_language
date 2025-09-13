@@ -14,5 +14,8 @@ int main()
     char lastName[]="patel";
     printString(firstName);
     printString(lastName);
+    //2nd option to print string and store
+    char hello[]="hello world";
+    printf("\n %s",hello);
     return 0;
 }
