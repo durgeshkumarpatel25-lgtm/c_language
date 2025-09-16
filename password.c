@@ -9,6 +9,7 @@ void main()
     printf("Enter your password: ");
     scanf("%s",pass);
     strcat(pass, word);
+    // printing your new password
     printf("Final Password Is: %s",pass);
     getch();
 }
