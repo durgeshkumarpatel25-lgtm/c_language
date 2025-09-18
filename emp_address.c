@@ -85,6 +85,6 @@ printf("\n \n 5th person Address Details House No  block  city  state");
 printf("\n house No %d",adds[4].houseNo);
 printf("\n block %s",adds[4].block);
 printf("\n City  %s",adds[4].city);
-printf("\n State %s",adds[4].state);
+printf("\n State %s",adds[4].state); 
 return 0;
 }
